@@ -44,7 +44,8 @@ The dataset includes **26K+ movies and shows** with over **39M total votes** and
 
 ## 📷 Dashboard Preview
 
-<h3> Netflix Dashboard</h3> ![NETFLIX DASHBOARD_page-0001](https://github.com/user-attachments/assets/4e311244-5eba-44d1-8355-905480b85249)
+<h3> Netflix Dashboard</h3> ![NETFLIX DASHBOARD_page-0001](https://github.com/user-attachments/assets/0964e965-5da8-481d-a00b-57bf3bef1dc0)
+
 ---
 
 ## 🎯 Project Purpose
