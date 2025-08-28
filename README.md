@@ -44,21 +44,7 @@ The dataset includes **26K+ movies and shows** with over **39M total votes** and
 
 ## 📷 Dashboard Preview
 
-![Netflix Dashboard](./NETFLIX%20DASHBOARD_page-0001.jpg)
-
----
-
-## 🚀 How to Use
-
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/your-username/netflix-dashboard.git
-   ```
-
-2. Open the dashboard file (`.pbix` for Power BI or `.twbx` for Tableau).  
-
-3. Explore the interactive charts and KPIs.  
-
+<h3> Netflix Dashboard</h3> ![NETFLIX DASHBOARD_page-0001](https://github.com/user-attachments/assets/4e311244-5eba-44d1-8355-905480b85249)
 ---
 
 ## 🎯 Project Purpose
@@ -74,8 +60,8 @@ This project aims to:
 ## 📬 Contact  
 
 For queries or collaborations:  
-📧 Email: your.email@example.com  
-🔗 LinkedIn: [Your Profile](https://www.linkedin.com/)  
+📧 Email: rohanjaswal822.com  
+🔗 LinkedIn: www.linkedin.com/in/rohan-jaswal8
 
 ---
 
